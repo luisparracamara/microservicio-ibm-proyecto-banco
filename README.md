@@ -32,4 +32,7 @@ ventasparsot@gmail.com
 ## Capturas de POSTMAN
 
 ![App Screenshot](https://i.postimg.cc/tRYzshrX/Screenshot-2.png)
+
+
+
 ![App Screenshot](https://i.postimg.cc/P5zWgKqM/Screenshot-3.png)
